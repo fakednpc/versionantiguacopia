@@ -1,0 +1,22 @@
+{
+  "java.project.sourcePaths": [
+    "."
+  ],
+  "java.project.outputPath": "bin",
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "database/sqlite-jdbc-3.50.3.0.jar"
+  ],
+  "workbench.colorCustomizations": {
+    "editor.background": "#1e1e1e",
+    "editorGroupHeader.tabsBackground": "#222222",
+    "tab.activeBackground": "#333333",
+    "tab.inactiveBackground": "#1A1A1A",
+    "tab.activeBorderTop": "#ffff00",
+    "editorIndentGuide.background": "#ff000040",
+    "editorIndentGuide.activeBackground": "#ffff18f4",
+    "activityBar.background": "#253023",
+    "titleBar.activeBackground": "#344431",
+    "titleBar.activeForeground": "#FBFCFB"
+  }
+}
